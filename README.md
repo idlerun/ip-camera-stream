@@ -5,7 +5,7 @@ tags: ip-camera, youtube
 date: 2016-08-12
 ---
 
-![Youtube Live](https://github.com/idlerun/ip-camera-stream/raw/master/live.png)
+![Youtube Live](https://github.com/idlerun/ip-camera-stream/raw/master/live.jpg)
 
 ## Step 1: Camera
 Need an IP Camera with RTSP support. I used the "JOOAN 703ERC-T".
